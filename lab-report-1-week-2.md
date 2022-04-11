@@ -1,1 +1,6 @@
-![Image](https://e3.365dm.com/21/07/2048x1152/skynews-panda-china_5441807.jpg)
+#                                                         WEEK 2 Lab Report
+
+**Installing VScode**
+* Go to the website [Link](https://code.visualstudio.com/), and download the correct version for your operating system.
+* After you download and install the VScode, you will see the following iamge:
+* ![Image]()
