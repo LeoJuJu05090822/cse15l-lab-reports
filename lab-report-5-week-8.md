@@ -51,4 +51,4 @@ So the output of the program should be [https://sites.google.com/eng.ucsd.edu/cs
 1. Yes, I think I can add a if condition in line 28 to desribe if there is a bracket between the code symbol , this bracket should be skip. The problem
    is casued by the code symbol which I didn't consider last time.
 2. No. I need to find the corresponding brackets. So I need to add some  stack data structur here to help me find whihch may need more than 10 lines. I may also import    the stack collection to reduece my work.
-3. 
+3. Yes. I need change my code to ensure it can identify the empty line. If there is a empty line, I should update my current idex to the next openbracket after the        empty line. 
