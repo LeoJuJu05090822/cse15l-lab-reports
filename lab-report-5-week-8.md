@@ -13,8 +13,8 @@ So the output of the program should be [`google.com, google.com, ucsd.edu]
 **My implementation**
 ![9c09fa614a0789c3f19ab3fe1d7bec1](https://user-images.githubusercontent.com/103226676/169749646-a068a8f5-1a82-44d9-8210-03fa5b25326f.png)
 
-
 **Reviewed implementation**
+![ad1611a93091eaaa52d269a329640ad](https://user-images.githubusercontent.com/103226676/169750332-fa6e15cf-f43c-49bb-9b20-f389ab111fa4.png)
 
 
 
@@ -29,6 +29,8 @@ So the output of the program should be [a.com, a.com(()), example.com)
 **My implementation**
 ![741e4143127ae008bab1d34c8a988a0](https://user-images.githubusercontent.com/103226676/169749824-9842dd6e-3587-48dc-be9e-46f415972119.png)
 
+**Reviewed implementation**
+![0b16373bf676be804507414ba722c0b](https://user-images.githubusercontent.com/103226676/169750371-b36c2ca7-aaee-4142-aa79-1c8689a9d742.png)
 
 ## My Snippet3 test
 **VS preview**
@@ -40,4 +42,7 @@ So the output of the program should be [https://sites.google.com/eng.ucsd.edu/cs
 
 **My implementation**
 ![b98ef9eb44b16cbc5e371c9b27b8039](https://user-images.githubusercontent.com/103226676/169749835-82bfe7cf-2ed1-4fa6-8b7d-aa726588e6aa.png)
+
+**Reviewed implementation**
+![971dab0c1473feb2ffe07fd97d38c2f](https://user-images.githubusercontent.com/103226676/169750387-9ad7fcda-0e26-4838-8930-f0f4bea0be0f.png)
 
