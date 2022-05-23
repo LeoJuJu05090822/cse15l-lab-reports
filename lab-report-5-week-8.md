@@ -48,6 +48,6 @@ So the output of the program should be [https://sites.google.com/eng.ucsd.edu/cs
 ![971dab0c1473feb2ffe07fd97d38c2f](https://user-images.githubusercontent.com/103226676/169750387-9ad7fcda-0e26-4838-8930-f0f4bea0be0f.png)
 
 ## Code changing questions
-1. Yes, I think I can add a if condition in line 28 to desribe if there is a bracket between the code symbol ``, this bracket should be skip. The problem
-   is casued by the ``symbol which I didn't consider last time.
+1. Yes, I think I can add a if condition in line 28 to desribe if there is a bracket between the code symbol , this bracket should be skip. The problem
+   is casued by the code symbol which I didn't consider last time.
 2.
